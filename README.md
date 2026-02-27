@@ -29,7 +29,7 @@ Source: [Predictive Maintenance Dataset (AI4I 2020) — Kaggle](https://www.kagg
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 predictive-maintenance/
